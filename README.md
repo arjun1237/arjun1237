@@ -11,6 +11,6 @@ I am a full-stack software engineer. I enjoy programming, badminton and cricket.
 - 🔭 I’m currently working on Quiz App
 - 🌱 I’m currently learning ExpressJS and MongoDB
 - 👯 I’m looking to collaborate on a Financial Web App that helps users to invest in stocks
-- 📫 How to reach me: arjun1237.kp@gmail.com
+- 📫 How to reach me at: arjun1237.kp@gmail.com
 - 😄 Pronouns: He/Him raising_hand
 - ⚡ Fun fact: I used to make short films and ads
