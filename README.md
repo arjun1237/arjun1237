@@ -15,6 +15,6 @@ I am a full-stack software engineer. I enjoy programming, badminton and cricket.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have a Bachelors in Animation and used to make short films and ads.
 
-### My Guthub Stats
+### My Github Stats
 
 ![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun1237&hide=issues&show_icons=true&theme=radical)
