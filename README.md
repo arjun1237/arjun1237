@@ -8,9 +8,9 @@
 
 I am a full-stack software engineer. I enjoy programming, badminton and cricket.
 
-- 🔭 I’m currently working on - Quiz App
-- 🌱 I’m currently learning ExpressJS and MongoDB
-- 👯 I’m looking to collaborate on a Financial Web App that helps users to invest in stocks
-- 📫 How to reach me: arjun1237.kp@gmail.com
-- 😄 Pronouns: He/His 
-- ⚡ Fun fact: I used to make short films and ads
+- 🔭 I’m currently working on - Quiz App.
+- 🌱 I’m currently learning ExpressJS and MongoDB.
+- 👯 I’m looking to collaborate on a Financial Web App that helps users to invest in stocks.
+- 📫 How to reach me: arjun1237.kp@gmail.com.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I have a Bachelors in Animation and used to make short films and ads.
