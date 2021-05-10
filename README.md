@@ -17,4 +17,4 @@ I am a full-stack software engineer. I enjoy programming, badminton and cricket.
 
 ### My GitHub Stats
 
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun1237&hide=issues&show_icons=true&theme=radical)
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun1237&hide=issues&show_icons=true&theme=radical&include_all_commits=true)
