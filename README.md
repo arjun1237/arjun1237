@@ -8,7 +8,7 @@
 
 I am a React developer. I enjoy programming, badminton and cricket.
 
-- 🔭 I’m currently working on - GGX, an app that lets you buy and sell merchendise based on the game you are playing.
+- 🔭 I’m currently working on an app that lets you buy and sell online merchendise based on the game you are playing, which will used by characters in the game played by the user.
 - 👯 I’m looking to collaborate on a Financial Web App that helps users to invest in stocks.
 - 📫 How to reach me: arjun1237.kp@gmail.com.
 - 😄 Pronouns: He/His
