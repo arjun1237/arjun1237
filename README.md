@@ -6,10 +6,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=arjun1237.arjun1237)
 
-I am a full-stack software engineer. I enjoy programming, badminton and cricket.
+I am a React developer. I enjoy programming, badminton and cricket.
 
-- 🔭 I’m currently working on - Masai Refresh, an app that encourages fun ways of testing your basics of programming.
-- 🌱 I’m currently learning ExpressJS and MongoDB.
+- 🔭 I’m currently working on - GGX, an app that lets you buy and sell merchendise based on the game you are playing.
 - 👯 I’m looking to collaborate on a Financial Web App that helps users to invest in stocks.
 - 📫 How to reach me: arjun1237.kp@gmail.com.
 - 😄 Pronouns: He/His
