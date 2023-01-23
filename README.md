@@ -8,7 +8,7 @@
 
 I am a React developer. I enjoy programming, badminton and cricket.
 
-- 🔭 I’m currently working on an app that lets you buy and sell online merchendise based on the game you are playing, which will used by characters in the game played by the user.
+- 🔭 Developed and currently maintaining a SaaS product that provides decentralized game-based asset management system for third party games as well as in-house games.
 - 👯 I’m looking to collaborate on a Financial Web App that helps users to invest in stocks.
 - 📫 How to reach me: arjun1237.kp@gmail.com.
 - 😄 Pronouns: He/His
