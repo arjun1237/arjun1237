@@ -8,8 +8,7 @@
 
 I am a React developer. I enjoy programming, badminton and cricket.
 
-- 🔭 Developed and currently maintaining a SaaS product that provides decentralized game-based asset management system for third party games as well as in-house games.
-- 👯 I’m looking to collaborate on a Financial Web App that helps users to invest in stocks.
+- 👯 I’m looking for an opportunity to collaborate on a Financial Web App that helps users to invest in stocks and maintain portfolio.
 - 📫 How to reach me: arjun1237.kp@gmail.com.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have a Bachelors in Animation and used to make short films and ads.
