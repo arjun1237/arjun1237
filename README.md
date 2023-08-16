@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=arjun1237.arjun1237)
 
-I am a React developer. I enjoy programming, badminton and cricket.
+I am a React/NextJS developer. I enjoy programming, badminton and cricket.
 
 - 👯 I’m looking for an opportunity to collaborate on a Financial Web App that helps users to invest in stocks and maintain portfolio.
 - 📫 How to reach me: arjun1237.kp@gmail.com.
